@@ -97,7 +97,7 @@ python train_siamese.py
 
 #### 3. Face Recognition
 - Script: recognize_face.py
-- Recognizes faces in a given input image.
+- Recognizes faces in a given Input image.
 - Labels detected faces with their names or marks them as "Unknown".
 - Usage:
 python recognize_face.py
